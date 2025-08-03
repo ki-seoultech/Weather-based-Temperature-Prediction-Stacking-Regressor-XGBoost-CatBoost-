@@ -111,5 +111,14 @@ rather than relying solely on a single complex model.
 
 ---
 
+## 🔍 Leaderboard Ranking & Visuals
+
+### Private Leaderboard Ranking
+<img width="953" height="552" alt="image" src="https://github.com/user-attachments/assets/040e7e52-ad6d-421d-bdcf-921dc1922be8" />
+
+
+### Feature Correlation 
+<img width="733" height="550" alt="image" src="https://github.com/user-attachments/assets/d5de0773-8e98-4ac7-b4f8-07a593f9cba4" />
+
 ## 👤 Author
 Hyunbin Ki (Model design, feature engineering, code development)
